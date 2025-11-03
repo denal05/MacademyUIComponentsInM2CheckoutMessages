@@ -11,9 +11,9 @@
                                     <item name="sidebar" xsi:type="array">
                                         <item name="children" xsi:type="array">
                                             <item name="shippingTime" xsi:type="array">
-                                                <item name="component" xsi:type="string">Macademy_CheckoutMessages/js/view/summary/shipping-time</item>
+                                                <item name="component" xsi:type="string">Denal05_MacademyUIComponentsInM2CheckoutMessages/js/view/summary/shipping-time</item>
                                                 <item name="config" xsi:type="array">
-                                                    <item name="template" xsi:type="string">Macademy_CheckoutMessages/summary/shipping-time</item>
+                                                    <item name="template" xsi:type="string">Denal05_MacademyUIComponentsInM2CheckoutMessages/summary/shipping-time</item>
                                                     <item name="displayArea" xsi:type="string">extra</item>
                                                     <item name="deps" xsi:type="array">
                                                         <item name="0" xsi:type="string">checkout.sidebar.guarantee</item>
@@ -23,9 +23,9 @@
                                                 </item>
                                             </item>
                                             <item name="guarantee" xsi:type="array">
-                                                <item name="component" xsi:type="string">Macademy_CheckoutMessages/js/view/summary/guarantee</item>
+                                                <item name="component" xsi:type="string">Denal05_MacademyUIComponentsInM2CheckoutMessages/js/view/summary/guarantee</item>
                                                 <item name="config" xsi:type="array">
-                                                    <item name="template" xsi:type="string">Macademy_CheckoutMessages/summary/guarantee</item>
+                                                    <item name="template" xsi:type="string">Denal05_MacademyUIComponentsInM2CheckoutMessages/summary/guarantee</item>
                                                     <item name="displayArea" xsi:type="string">extra</item>
                                                 </item>
                                             </item>
