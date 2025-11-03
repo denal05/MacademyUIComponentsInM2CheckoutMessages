@@ -3,6 +3,9 @@ define(['uiComponent'], function(Component) {
     
     return Component.extend({
         defaults: {
+            tracks: {
+                countryId: true
+            },
             imports: {
                 countryId: 'checkoutProvider:shippingAddress.country_id'
             }
