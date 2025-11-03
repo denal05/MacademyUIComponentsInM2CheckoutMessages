@@ -15,6 +15,7 @@
                                                 <item name="config" xsi:type="array">
                                                     <item name="template" xsi:type="string">Denal05_MacademyUIComponentsInM2CheckoutMessages/summary/shipping-time</item>
                                                     <item name="displayArea" xsi:type="string">extra</item>
+                                  <!-- deps, i.e., dependencies have been added to change the load order of UI components -->
                                                     <item name="deps" xsi:type="array">
                                                         <item name="0" xsi:type="string">checkout.sidebar.guarantee</item>
                                                         <item name="1" xsi:type="string">checkout.sidebar.summary</item>
