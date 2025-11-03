@@ -9,6 +9,9 @@ define(['uiComponent'], function(Component) {
             imports: {
                 countryId: 'checkoutProvider:shippingAddress.country_id'
             }
+        },
+        showMessage: function() {
+            return this.countryId === 'US';
         }
     });
 });
